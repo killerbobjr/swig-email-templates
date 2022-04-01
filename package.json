@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andrewrk/swig-email-templates.git"
+    "url": "https://github.com/andrewrk/swig-email-templates.git"
   },
   "author": "Andrew Kelley",
   "contributors": [
@@ -32,6 +32,6 @@
     "html-to-text": "^5.1.1",
     "juice": "^5.2.0",
     "optimist": "^0.6.1",
-    "swig-templates": "git://github.com/killerbobjr/swig-templates.git"
+    "swig-templates": "https://github.com/killerbobjr/swig-templates.git"
   }
 }
